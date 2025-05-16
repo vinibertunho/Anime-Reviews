@@ -20,9 +20,19 @@ O Anime Reviews é um projeto pessoal onde faço análises escritas (e quem sabe
 ##### Reviews de Animes #####
 - Death Note – Nota: 9.5
 - Naruto – Nota: 8.0
+- Naruto Shippuden - Nota: 8.7
 - Attack on Titan – Nota: 10
 - Villand Saga - Nota: 10
-- Dragon Ball Z - Nota: 9.6
+- Dragon Ball Super - Nota: 9.6
+- Pokémon    - Nota: 10
+- One Piece - Nota: 9.9
+- Hunter x Hunter - Nota: 8.0
+-  Demon Slayer: Kimetsu no Yaiba - Nota: 7.0
+- Jujutsu Kaisen - Nota: 10
+- Bluelock - Nota: 9.0
+- Berserk - Nota: 10
+- Golden Kamuy - Nota: 9.0
+- Blade of the Immortal - Nota: 8.3
 #### Como Contribuir ####
 1. Faça um fork deste repositório
 2. Crie uma branch: `git checkout -b minha-feature`

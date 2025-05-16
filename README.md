@@ -9,6 +9,13 @@ O Anime Reviews é um projeto pessoal onde faço análises escritas (e quem sabe
 - Destaques positivos e negativos
 - Gêneros, ano de lançamento e estúdio de cada anime
  -  “Vale a pena assistir?”
+ - Sistema de busca por nome, gênero ou ano
+- Filtros para encontrar animes por categoria ou nota
+- Página de detalhes para cada anime, com sinopse e curiosidades
+- Possibilidade de adicionar comentários (em breve)
+- Painel para sugestões de animes dos usuários
+- Responsividade: funciona em celular, tablet e PC
+- Dark/Light Mode para melhor experiência de leitura
 
 ##### Reviews de Animes #####
 - Death Note – Nota: 9.5
@@ -16,3 +23,9 @@ O Anime Reviews é um projeto pessoal onde faço análises escritas (e quem sabe
 - Attack on Titan – Nota: 10
 - Villand Saga - Nota: 10
 - Dragon Ball Z - Nota: 9.6
+#### Como Contribuir ####
+1. Faça um fork deste repositório
+2. Crie uma branch: `git checkout -b minha-feature`
+3. Faça suas alterações e commit: `git commit -m 'Minha contribuição'`
+4. Envie sua branch: `git push origin minha-feature`
+5. Abra um Pull Request

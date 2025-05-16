@@ -15,3 +15,4 @@ O Anime Reviews é um projeto pessoal onde faço análises escritas (e quem sabe
 - Naruto – Nota: 8.0
 - Attack on Titan – Nota: 10
 - Villand Saga - Nota: 10
+- Dragon Ball Z - Nota: 9.6
